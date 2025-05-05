@@ -16,7 +16,7 @@ const About = () => {
                 <li>Dark and light mode themes</li>
             </ul>
             <p>
-                Live deployment: <a href="YOUR_DEPLOYMENT_LINK" className="text-blue-600 hover:underline">YOUR_DEPLOYMENT_LINK</a>
+                Live deployment: <a href="https://abhijeetaundhakar.github.io/loan-calculator/" className="text-blue-600 hover:underline">Click here</a>
             </p>
         </div>
     );
